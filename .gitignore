@@ -9,7 +9,7 @@
 # CocoaPods - Only use to conserve bandwidth / Save time on Pushing
 #           - Also handy if you have a large number of dependant pods
 #           - AS PER https://guides.cocoapods.org/using/using-cocoapods.html NEVER IGNORE THE LOCK FILE
-frontend/FindPet/Pods/
+frontend/Dogking/Pods/
 
 ### Swift ###
 # Xcode
@@ -17,15 +17,15 @@ frontend/FindPet/Pods/
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 ## User settings
-frontend/FindPet/xcuserdata/
+frontend/Dogking/xcuserdata/
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
 *.xccheckout
 
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
-frontend/FindPet/build/
-frontend/FindPet/DerivedData/
+frontend/Dogking/build/
+frontend/Dogking/DerivedData/
 *.moved-aside
 *.pbxuser
 !default.pbxuser
@@ -45,8 +45,8 @@ frontend/FindPet/DerivedData/
 *.dSYM
 
 ## Playgrounds
-frontend/FindPet/timeline.xctimeline
-frontend/FindPet/playground.xcworkspace
+frontend/Dogking/timeline.xctimeline
+frontend/Dogking/playground.xcworkspace
 
 # Swift Package Manager
 # Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
@@ -58,7 +58,7 @@ frontend/FindPet/playground.xcworkspace
 # hence it is not needed unless you have added a package configuration file to your project
 # .swiftpm
 
-frontend/FindPet/.build/
+frontend/Dogking/.build/
 
 # CocoaPods
 # We recommend against adding the Pods directory to your .gitignore. However
@@ -72,11 +72,11 @@ frontend/FindPet/.build/
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
 # Carthage/Checkouts
 
-frontend/FindPet/Carthage/Build/
+frontend/Dogking/Carthage/Build/
 
 # Accio dependency management
-frontend/FindPet/Dependencies/
-frontend/FindPet/.accio/
+frontend/Dogking/Dependencies/
+frontend/Dogking/.accio/
 
 # fastlane
 # It is recommended to not store the screenshots in the git repo.
@@ -84,16 +84,16 @@ frontend/FindPet/.accio/
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/#source-control
 
-frontend/FindPet/fastlane/report.xml
-frontend/FindPet/fastlane/Preview.html
-frontend/FindPet/fastlane/screenshots/**/*.png
-frontend/FindPet/fastlane/test_output
+frontend/Dogking/fastlane/report.xml
+frontend/Dogking/fastlane/Preview.html
+frontend/Dogking/fastlane/screenshots/**/*.png
+frontend/Dogking/fastlane/test_output
 
 # Code Injection
 # After new code Injection tools there's a generated folder /iOSInjectionProject
 # https://github.com/johnno1962/injectionforxcode
 
-frontend/FindPet/iOSInjectionProject/
+frontend/Dogking/iOSInjectionProject/
 
 ### Xcode ###
 
