@@ -2,12 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/song-gyeongjin/song/Find-Pet/frontend/Dogking/Dogking.xcodeproj">
+      location = "group:Dogking.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Dogking.xcodeproj">
    </FileRef>
 </Workspace>
